@@ -31,7 +31,7 @@ function App() {
             <p>Your pressed key code is above.</p>
           </>
         ) : (
-          <p>Please press any key to see key code.</p>
+          <p>Please press any key to see key code!</p>
         )
       }
     </>
